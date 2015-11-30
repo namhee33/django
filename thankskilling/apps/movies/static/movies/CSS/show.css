@@ -1,0 +1,23 @@
+* {
+  padding: 0px;
+  margin: 0px auto;
+  font-family: Helvetica;
+  padding: 5px;
+/*  outline: green thin dashed;*/
+}
+
+#wrapper {
+  width: 720px; 
+}
+
+#movie {
+  text-align: center;
+}
+  #movie a {
+    display: block;
+  }
+a{    
+    color: darkred;
+    text-align: center; 
+    display: block;
+}
